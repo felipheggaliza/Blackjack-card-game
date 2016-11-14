@@ -12,9 +12,13 @@ or Let the dealer draw additional cards until his or her hand exceeds 21.
 The code developed for this game also records behavior information from both players, and store it in a textfile.
 
 Example:
+
 [Player][Diego] turn, [09:56:03] the mouse was hovering over (0,0) with [Diego]'s[U$1000]
+
 [Player][Diego] turn, [09:56:04] the mouse was hovering over (493,420) with [Diego]'s[U$1000]
+
 [Dealer][Leandro] turn, [09:56:26] the mouse was hovering over (399,67) with [Leandro]'s[U$1000]
+
 [Dealer][Leandro] turn, [09:56:27] the mouse was hovering over (399,67) with [Leandro]'s[U$1000]
 
 Code by Feliphe Gonçalves Galiza
